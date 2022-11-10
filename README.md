@@ -10,7 +10,7 @@ Using autoencoder, we are trying to remove the noise added in the encoder part a
 The dataset which is used is mnist dataset.
 
 ## Convolution Autoencoder Network Model
-![nn](https://user-images.githubusercontent.com/77089743/201087716-0a56206c-d6b4-448f-ac99-7b6dbcbba3c0.jpg)
+![nn](https://user-images.githubusercontent.com/65499285/200237286-29f2220e-c59c-4951-bf6f-3b353fd420ac.svg)
 
 
 ## DESIGN STEPS
